@@ -1,0 +1,2 @@
+# OpenWeatherAPI
+Predicting the weather
